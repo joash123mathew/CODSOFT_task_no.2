@@ -1,2 +1,2 @@
 # CODSOFT
-Internship Tasks managed here
+This project is a simple GUI based Calculator
